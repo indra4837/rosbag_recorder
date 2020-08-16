@@ -1,0 +1,7 @@
+filename: av_sweeper_recordings
+filepath: /home/indra/OneDrive/av_sweeper/rosbag_recordings
+
+topics_record:
+  - /system_health
+  - /sweeper_mode
+  - /cmd_vel
