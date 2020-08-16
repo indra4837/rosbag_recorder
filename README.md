@@ -4,6 +4,7 @@ This package contains a rosbag_recorder_node that automatically records all runn
 
 All rosbag recordings are automatically uploaded to [OneDrive folder.](https://nusu-my.sharepoint.com/:f:/g/personal/e0175651_u_nus_edu/EhfEzxoX4VJFqdl5tZZ7rk8BkUfzA0_pUVZpzS0DA75otg)
 
+*requires NUS student account
 
 ## Using the package
 
